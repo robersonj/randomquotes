@@ -215,7 +215,7 @@ $(document).ready(function(){
             $("#quote").text(quote.quote);
             $("#author").text(quote.author);
             $(this).fadeIn(750);
-     });
+        });
     }
 
     function tweetThis() {
