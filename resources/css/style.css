@@ -16,27 +16,22 @@ body {
 	width: 95vw;
 }
 
-.txt-container button {
-	background-color: rgba(255,255,255, .7);
-	border: 0;
-	border-radius: 6px;
-	color: #835960;	
-	cursor: pointer;
-	font-family: 'Bellefair', serif;
-	font-size: 20px;
-	padding: 10px 20px;
-	transition: all .3s ease-in-out;
-}
-
-.txt-container button:hover {
-	background-color: rgba(255,255,255, 1);
-}
 
 .txt-container p {
 	line-height: 1.3;
 }
 
+.txt-container i {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 30px;
+    transition: all .3 ease-in-out;
+    margin: 0 20px;
+}
 
+.txt-container i:hover{
+    color: rgba(255,255,255,0.9);
+    transition: all .2 ease-in-out;
+}
 
 #author {
   color: rgba(255, 255, 255, 0.7);
