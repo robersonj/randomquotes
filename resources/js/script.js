@@ -224,4 +224,4 @@ $(document).ready(function(){
         var author = document.getElementById('author').textContent;
         window.open(url+"?text=" + "\"" + text + "\"" + " " + author);
     }
-})
+});
