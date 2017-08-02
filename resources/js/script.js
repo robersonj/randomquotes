@@ -206,19 +206,22 @@ var quotes = [
     
 ];
 
-function generateQuote() {
-    var randomNumber = Math.floor(Math.random() * quotes.length);
-    var quote = quotes[randomNumber];
-     $("#quote, #author").fadeOut(750, function(){
-        $("#quote").text(quote.quote);
-        $("#author").text(quote.author);
-        $(this).fadeIn(750);
-    });
-}
+$(document).ready(function(){
 
-function tweetThis() {
-    var url = "https://twitter.com/intent/tweet";
-    var text = document.getElementById('quote').textContent;
-    var author = document.getElementById('author').textContent;
-    window.open(url+"?text=" + "\"" + text + "\"" + " " + author);
-}
+    function generateQuote() {
+        var randomNumber = Math.floor(Math.random() * quotes.length);
+        var quote = quotes[randomNumber];
+        $("#quote, #author").fadeOut(750, function(){
+            $("#quote").text(quote.quote);
+            $("#author").text(quote.author);
+            $(this).fadeIn(750);
+     });
+    }
+
+    function tweetThis() {
+        var url = "https://twitter.com/intent/tweet";
+        var text = document.getElementById('quote').textContent;
+        var author = document.getElementById('author').textContent;
+        window.open(url+"?text=" + "\"" + text + "\"" + " " + author);
+    }
+});
