@@ -205,3 +205,9 @@ var quotes = [
   }
     
 ];
+
+function generateQuote() {
+    var randomNumber = Math.floor(Math.random() * quotes.length);
+    document.getElementById('quote').innerHTML = quotes[randomNumber].quote;
+    document.getElementById('author').innerHTML = quotes[randomNumber].author;
+}
