@@ -214,5 +214,11 @@ function generateQuote() {
         $("#author").text(quote.author);
         $(this).fadeIn(750);
     });
+}
 
+function tweetThis() {
+    var url = "https://twitter.com/intent/tweet";
+    var text = document.getElementById('quote').textContent;
+    var author = document.getElementById('author').textContent;
+    window.open(url+"?text=" + "\"" + text + "\"" + " " + author);
 }
