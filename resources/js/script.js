@@ -168,7 +168,7 @@ var quotes = [
     "author": "William Cowper"
   },
   {
-    "quote": "This is a su whatever ends in the increase of our love to God proceeds from the love of God to us. A wicked man finds his heart rising against God when He smites him, but a gracious heart cleaves the closer to Him; he can love as well as justify an afflicting God",
+    "quote": "This is a sure thing, whatever ends in the increase of our love to God proceeds from the love of God to us. A wicked man finds his heart rising against God when He smites him, but a gracious heart cleaves the closer to Him; he can love as well as justify an afflicting God",
     "author": "John Flavel"
   },
   {
