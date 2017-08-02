@@ -208,6 +208,11 @@ var quotes = [
 
 function generateQuote() {
     var randomNumber = Math.floor(Math.random() * quotes.length);
-    document.getElementById('quote').innerHTML = quotes[randomNumber].quote;
-    document.getElementById('author').innerHTML = quotes[randomNumber].author;
+    var quote = quotes[randomNumber];
+     $("#quote, #author").fadeOut(750, function(){
+        $("#quote").text(quote.quote);
+        $("#author").text(quote.author);
+        $(this).fadeIn(750);
+    });
+
 }
