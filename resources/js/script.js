@@ -206,8 +206,59 @@ var quotes = [
   {
     "quote": "God helps those who cannot help themselves.",
     "author": "Charles Spurgeon"
+  },
+  {
+      "quote": "The Christian is a man who can be certain about the ultimate even when he is most uncertain about the immediate.",
+      "author": "D. Martyn Lloyd-Jones"
+  },
+  {
+      "quote": "The glory of the Gospel is that the One from whom we need to be saved is the very One who saves us.",
+      "author": "R. C. Sproul"
+  },
+  {
+      "quote": "Holiness is not something we are called upon to do in order that we may become something; it is something we are to do because of what we already are.",
+      "author": "D. Martyn Lloyd-Jones"
+  },
+  {
+      "quote": "It is grace at the beginning, and grace at the end. So that when you and I come to lie upon our death beds, the one thing that should comfort and help and strengthen us there is the thing that helped us in the beginning. Not what we have been, not what we have done, but the Grace of God in Jesus Christ our Lord. The Christian life starts with grace, it must continue with grace, it ends with grace. Grace wondrous grace. By the grace of God I am what I am. Yet not I, but the Grace of God which was with me.",
+      "author": "D. Martyn Lloyd-Jones"
+  },
+  {
+      "quote": "Faith is a refusal to panic.",
+      "author": "D. Martyn Lloyd-Jones" 
+  },
+  {
+      "quote": "His mercy is so great that it forgives great sins to great sinners after great lengths of time and then gives great favors and great privileges and raises us up to great enjoyments in the great heaven of the great God!",
+      "author": "Charles Spurgeon" 
+  },
+  {
+      "quote": "If Christ is not all to you He is nothing to you. He will never go into partnership as a part Saviour of men. If He be something He must be everything, and if He be not everything He is nothing to you.",
+      "author": "Charles Spurgeon" 
+  },
+  {
+      "quote": "Remember that the Lord Jesus came to take away sin in three ways; He came to remove the penalty of sin, the power of sin, and, at last, the presence of sin.",
+      "author": "Charles Spurgeon" 
+  },
+  {
+      "quote": "What a man is on his knees before God, that he is, and nothing more.",
+      "author": "Robert Murray M'Cheyne" 
+  },
+  {
+      "quote": "[Suffering] brings out graces that cannot be seen in a time of health. It is the treading of the grapes that brings out the sweet juices of the vine; so it is affliction that draws forth submission, weanedness from the world, and complete rest in God. Use afflictions while you have them.",
+      "author": "Robert Murray M'Cheyne" 
+  },
+   {
+      "quote": "The seed of every sin known to man is in my heart.",
+      "author": "Robert Murray M'Cheyne" 
+  },
+  {
+      "quote": "The more afflictions you have been under, the more assistance you have had for this life of holiness.",
+      "author": "John Flavel" 
+  },
+  {
+      "quote": "The Scriptures teach us the best way of living, the noblest way of suffering, and the most comfortable way of dying.",
+      "author": "John Flavel" 
   }
-    
 ];
 
 
