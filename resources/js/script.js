@@ -258,7 +258,188 @@ var quotes = [
   {
       "quote": "The Scriptures teach us the best way of living, the noblest way of suffering, and the most comfortable way of dying.",
       "author": "John Flavel" 
-  }
+  },
+  {
+      "quote": "I am not permitted to let my love be so merciful as to tolerate and endure false doctrine. When faith and doctrine are concerned and endangered, neither love nor patience are in order....when these are concerned, neither toleration nor mercy are in order, but only anger, dispute, and destruction - to be sure, only with the Word of God as our weapon.",
+      "author": "Martin Luther"
+  },
+  {
+    "quote": "It was a greater plague for Pharoah to have his heart turned into stone than to have his rivers turned into blood.",
+    "author": "Thomas Watson"
+  },
+  {
+    "quote": "The table of Christ is for those who can say with John Newton, 'I am a great sinner and Christ is a great Savior.'",
+    "author": "Alistair Begg"
+  },
+  {
+    "quote": "Thou hast formed us for Thyself, and our hearts are restless till they find rest in Thee.",
+    "author": "Augustine"
+  },
+  {
+    "quote": "Repentance is not merely the start of the Christian life; it is the Christian life.",
+    "author": "John Calvin"
+  },
+  {
+    "quote": "Election is the ultimate proof that we cannot claim any righteousness for ourselves",
+    "author": "John Calvin"
+  },
+  {
+    "quote": "A man's most glorious actions will at last be found to be but glorious sins if he hath made himself and not the glory of God the end of those actions.",
+    "author": "Thomas Brooks"
+  },
+  {
+    "quote": "The doctrine of the gospel takes from men all glory, wisdom, righteousness...and gives the same unto the Creator alone, who made all things of nothing.",
+    "author": "Martin Luther"
+  },
+  {
+    "quote": "Few follow Him for love, but for loaves (John 6:26); few follow Him for His nward excellencies, but many follow Him for their outward advantages; few follow Him that they may be made good by Him, but many follow Him that they may be great by Him.",
+    "author": "Thomas Brooks"
+  },
+  {
+    "quote": "The sin underneath all our sin is to trust the lie of the serpent--that we cannot trust the love and grace of Christ and must take matters into our own hands.",
+    "author": "Martin Luther"
+  },
+  {
+    "quote": "It seems that Jehovah's way is to lower those whom he means to raise and to strip those whom he intends to clothe. If it is His way, it is the wisest and best way. If I am now enduring the bringing low, I may well rejoice, because I see in it the preface to the lifting up.",
+    "author": "Charles Spurgeon"
+  },
+  {
+    "quote": "There is nothing here to teach that a man can be saved, then lost, then saved again. Such a thing is taught nowhere in the Scriptures. There is only one reason why people ever teach anything like that and that is that they forget the doctrine of regeneration. They put so much emphasis on a man's decision.",
+    "author": "D. Martyn Lloyd-Jones"
+  },
+  {
+    "quote": "When you truly get the gospel, it doesn't just change your understanding of salvation, it changes your understanding of everything.",
+    "author": "Burk Parsons"
+  },
+  {
+    "quote": "Until sin be bitter, Christ will not be sweet.",
+    "author": "Thomas Watson"
+  },
+  {
+    "quote": "The Christian is one who admits that the statements and the demands of the gospel are impossible, but thank God that the gospel does the impossible for us and gives us salvation as a free gift.",
+    "author": "D. Martyn Lloyd-Jones"
+  },
+  {
+    "quote": "Let fire and the cross, let wild beasts, let all the malilce of hte devil come upon me; only may I enjoy Jesus Christ.",
+    "author": "Ignatius"
+  },
+  {
+    "quote": "The new birth is solely the work of God the Spirit and man has no part or lot in it. This from the very nature of the case. Birth altogether excludes the idea of any effort or work on the part of the one who is born.",
+    "author": "A. W Pink"
+  },
+  {
+    "quote": "How could we have such a low view of the gospel of Jesus Christ that we have to manipulate men psychologically to get them to come down and pray a prayer...How many times have I heard evangelists say, \"It\'ll only take five minutes.\" No my dear friend, it will take your life--all of it.",
+    "author": "Paul Washer"
+  },
+  {
+    "quote": "Morality may keep you out of jail, but it takes the blood of Jesus Christ to keep you out of hell.",
+    "author": "Charles Spurgeon"
+  },
+  {
+    "quote": "Though sin often brings immediate pleasure, it gives no lasting joy.",
+    "author": "R. C. Sproul"
+  },
+  {
+    "quote": "We are too prone to engrave our trials in marble and write our blessings in sand.",
+    "author": "Charles Spurgeon"
+  },
+  {
+    "quote": "A true disciple does not consider Christianity a part-time commitment. He has become a Christian in all parts of his life. He has reached the point where there is no turning back.",
+    "author": "A. W. Tozer"
+  },
+  {
+    "quote": "Do not expect, my friend, that the whole world will rejoice if you become a Christian. you will probably receive enmity and hatred and persecution from certain people. It happened in the case of our blessed Lord, and His followers must always be ready to meet it.",
+    "author": "D. Martyn Lloyd-Jones"
+  },
+  {
+    "quote": "There is no greater commentary that opens up the Bible as much as sickness and sorrow.",
+    "author": "J. C. Ryle"
+  },
+  {
+    "quote": "When we think too lightly of sin, we think too lightly of the Savior.",
+    "author": "Charles Spurgeon"
+  },
+  {
+    "quote": "Only God can justify the ungodly; but He can do it to perfection. He casts our sins behind His back, He blots them out; He says that though they be sought for, they shall not be found.",
+    "author": "Charles Spurgeon"
+  },
+  {
+    "quote": "God is not a God who tolerates you. He is a God who loves you. He is a God who desires you.",
+    "author": "Paul Washer"
+  },
+  {
+    "quote": "Only one life, 'twill soon be past. Only what's done for Christ will last.",
+    "author": "C. T. Studd"
+  },
+  {
+    "quote": "The greatest enemy to human souls is the self-righteous spirit which makes men look to themselves for salvation.",
+    "author": "Charles Spurgeon"
+  },
+  {
+    "quote": "This day, my God, I hate my sin, not because it damns me, but because it has done Thee wrong. To have grieved my God is the worst grief to me.",
+    "author": "Charles Spurgeon"
+  },
+  {
+    "quote": "Jesus is a king who conquers by suffering and dying. There's no other kingdom like this.",
+    "author": "Kim Riddlebarger"
+  },
+  {
+    "quote": "The first great and primary business to which I ought to attend every day is to have my soul happy in the Lord.",
+    "author": "George Mueller"
+  },
+  {
+    "quote": "It is the very nature of grace to make a man strive to be most eminent in that particular grace which is most opposed to his bosom sin.",
+    "author": "Thomas Brooks"
+  },
+  {
+    "quote": "God gave us the Bible not just to inform our minds, but also to transform our hearts.",
+    "author": "John Piper"
+  },
+  {
+    "quote": "Although the sovereignty of God is universal and absolute, it is not the sovereignty of blind power. It is coupled with infinite wisdom, holiness, and love. And this doctrine, when properly understood, is a most comforting and reassuring one.",
+    "author": "Loraine Boettner"
+  },
+  {
+    "quote": "The Word of God is like a straight edge, which shows up our own crookedness. We can't really tell how crooked our thinking is until we line it up with the straight edge of Scripture.",
+    "author": "Elisabeth Elliot"
+  },
+  {
+    "quote": "We rob men of a greater vision of God because we will not give them a lower vision of themselves.",
+    "author": "Paul Washer"
+  },
+  {
+    "quote": "Prayer will become effective when we stop using it as a substitute for obedience",
+    "author": "A. W. Tozer"
+  },
+  {
+    "quote": "When the corn is nearly ripe, it bows the head and stoops lower than when it was green. When the people of God are near ripe for heaven, they grow more humble and self-denying. Paul had one foot in heaven when he called himself the chiefest of sinners and least of saints.",
+    "author": "John Flavel"
+  },
+  {
+    "quote": "In our culture, freedom is the ability to do what we want. In the Bible, freedom is the ability to do what we should.",
+    "author": "Kevin DeYoung"
+  },
+  {
+    "quote": "Sin is addictive. The more we do it, the more we want to do it. We think it is giving us power, but sin makes us powerless.",
+    "author": "Justin Holcomb"
+  },
+  {
+    "quote": "God has entrusted to us not only the armor that protects us as we go into battle, but also...the weapon of our warfare.",
+    "author": "Alistair Begg"
+  },
+  {
+    "quote": "There is nothing so deluded as feelings. Christians cannot live by feelings. Let me further tell you that many feelings are the work of Satan, for they are not right feelings. What right have you to ste up your feelings against the Word of Christ?",
+    "author": "Charles Spurgeon"
+  },
+  {
+    "quote": "Our pain and longings make sure we will never be content, but that's good; it is to our benefit that we do not grow comfortable in a world destined for decay.",
+    "author": "Joni Eareckson Tada"
+  },
+  {
+    "quote": "The gospel message is more about sin than sins. The point is that I do not approach a person on the basis of a specific sin that he or she needs to quit but on the basis of a nature that needs to be changed.",
+    "author": "Voddie Baucham"
+  },
+
 ];
 
 
