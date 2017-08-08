@@ -168,7 +168,7 @@ var quotes = [
     "author": "William Cowper"
   },
   {
-    "quote": "This is a sure thing, whatever ends in the increase of our love to God proceeds from the love of God to us. A wicked man finds his heart rising against God when He smites him, but a gracious heart cleaves the closer to Him; he can love as well as justify an afflicting God",
+    "quote": "This is a sure thing, whatever ends in the increase of our love to God proceeds from the love of God to us. A wicked man finds his heart rising against God when He smites him, but a gracious heart cleaves the closer to Him; he can love as well as justify an afflicting God.",
     "author": "John Flavel"
   },
   {
@@ -292,7 +292,7 @@ var quotes = [
     "author": "Martin Luther"
   },
   {
-    "quote": "Few follow Him for love, but for loaves (John 6:26); few follow Him for His nward excellencies, but many follow Him for their outward advantages; few follow Him that they may be made good by Him, but many follow Him that they may be great by Him.",
+    "quote": "Few follow Him for love, but for loaves (John 6:26); few follow Him for His inward excellencies, but many follow Him for their outward advantages; few follow Him that they may be made good by Him, but many follow Him that they may be great by Him.",
     "author": "Thomas Brooks"
   },
   {
@@ -320,7 +320,7 @@ var quotes = [
     "author": "D. Martyn Lloyd-Jones"
   },
   {
-    "quote": "Let fire and the cross, let wild beasts, let all the malilce of hte devil come upon me; only may I enjoy Jesus Christ.",
+    "quote": "Let fire and the cross, let wild beasts, let all the malilce of the devil come upon me; only may I enjoy Jesus Christ.",
     "author": "Ignatius"
   },
   {
@@ -348,7 +348,7 @@ var quotes = [
     "author": "A. W. Tozer"
   },
   {
-    "quote": "Do not expect, my friend, that the whole world will rejoice if you become a Christian. you will probably receive enmity and hatred and persecution from certain people. It happened in the case of our blessed Lord, and His followers must always be ready to meet it.",
+    "quote": "Do not expect, my friend, that the whole world will rejoice if you become a Christian. You will probably receive enmity and hatred and persecution from certain people. It happened in the case of our blessed Lord, and His followers must always be ready to meet it.",
     "author": "D. Martyn Lloyd-Jones"
   },
   {
@@ -408,7 +408,7 @@ var quotes = [
     "author": "Paul Washer"
   },
   {
-    "quote": "Prayer will become effective when we stop using it as a substitute for obedience",
+    "quote": "Prayer will become effective when we stop using it as a substitute for obedience.",
     "author": "A. W. Tozer"
   },
   {
@@ -428,7 +428,7 @@ var quotes = [
     "author": "Alistair Begg"
   },
   {
-    "quote": "There is nothing so deluded as feelings. Christians cannot live by feelings. Let me further tell you that many feelings are the work of Satan, for they are not right feelings. What right have you to ste up your feelings against the Word of Christ?",
+    "quote": "There is nothing so deluded as feelings. Christians cannot live by feelings. Let me further tell you that many feelings are the work of Satan, for they are not right feelings. What right have you to set up your feelings against the Word of Christ?",
     "author": "Charles Spurgeon"
   },
   {
